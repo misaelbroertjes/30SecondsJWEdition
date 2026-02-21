@@ -1,30 +1,14 @@
 {
   "expo": {
     "name": "30secondsjwedition",
-    "slug": "snack-d4eb2a62-ceff-475e-a90d-de6bb49072f1",
+    "slug": "30secondsjwedition",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-        "android": {
+    "android": {
       "package": "com.misaelbroertjes.thirtysecondsjw",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
